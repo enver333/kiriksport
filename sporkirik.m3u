@@ -1,119 +1,222 @@
-#EXTINF:-1,beIN Sports 1 HD TR tvg-name="KırıK ANDROIDBein SPOR FHD 1 TR" "group-title="KırıK ANDROID SPOR"
-http://iptv-line.com:7899/Miki/123456/26475.m3u8
-#EXTINF:-1,beIN Sports 1 HD TR tvg-name="KırıK ANDROIDBein SPOR FHD 1 TR" "group-title="KırıK ANDROID SPOR"
-http://mhiptv.com:8888/noval/123456/4466.m3u8
-#EXTINF:-1,TR-SP:BEIN SPORT 1 VIP tvg-name="KırıK ANDROIDBein SPOR 1 MAÇ ZAMANI TR" "group-title="KırıK ANDROID SPOR"
-http://mahs.work:80/Bashar277n/Bs4354AltB/30628.m3u8
-#EXTINF:-1,TR:BEINSPORTS 4K (MAÇ ZAMANI) tvg-name="KırıK ANDROIDBein SPOR 1 VIP TR" "group-title="KırıK ANDROID SPOR"
-http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/2810.m3u8
-#EXTINF:-1,BEIN SPORTS HD1 tvg-name="KırıK ANDROIDBein SPOR HD 1 TR" "group-title="KırıK ANDROID SPOR"
-http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/2810.m3u8
-#EXTINF:-1,beIN Sports 1 TR tvg-name="KırıK ANDROIDBein SPOR SD 1 TR" "group-title="KırıK ANDROID SPOR"
-http://m3ulink.com:7899/atchareya1@gmail.com/bVzHHjwVCJ/7683.m3u8
-#EXTINF:-1,TR-SP:BeIN Sports-1-digiplay tvg-name="KırıK ANDROIDBein SPOR 1 DİGİ TR" "group-title="KırıK ANDROID SPOR"
-http://mahs.work:80/Bashar277n/Bs4354AltB/30632.m3u8
-#EXTINF:-1,TR:BEINSPORTS 1 UHD (50FPS) tvg-name="KırıK ANDROIDBein SPOR 720 1 TR" "group-title="KırıK ANDROID SPOR"
-http://iptv-line.com:7899/Miki/123456/11778.m3u8
-#EXTINF:-1,BEIN SPORTS HD1+ tvg-name="KırıK ANDROIDBein SPOR 720 1 TR" "group-title="KırıK ANDROID SPOR"
-http://ingrid.ltd:25461/Melon3175/Melon7531/23109
-#EXTINF:-1,beIN Sports 1 [Yedek] HD TR tvg-name="KırıK ANDROIDBein SPOR YEDEK 1 TR" "group-title="KırıK ANDROID SPOR"
-http://f.ok2.se:8000/Fonzi/Fonzi/27119.m3u8
-#EXTINF:-1,TR:BEINSPORTS 1 UHD (UYDU YAYINI) tvg-name="KırıK ANDROID Bein SPOR UHD UYDU YAYINI 1 TR" "group-title="KırıK ANDROID SPOR"
-http://rocksat.ddns.net:25461/jLOjyyvUHw7cIqS/vdgYAgYDIA1svfU/76058.m3u8
-#EXTINF:-1,TR:BEINSPORTS 1 UHD (HAM YAYIN) tvg-name="KırıK ANDROI DBein SPOR 1 HAM YAYIN TR" "group-title="KırıK ANDROID SPOR"
-http://portal-http://rocksat.ddns.net:25461/jLOjyyvUHw7cIqS/vdgYAgYDIA1svfU/76062.m3u8
-#EXTINF:-1,TR:BEINSPORTS 1 UHD* tvg-name="KırıK ANDROIDBein SPOR UHD 1 TR" "group-title="KırıK ANDROID SPOR"
-http://f.ok2.se:8000/victor1/victor123/27119.m3u8
-#EXTINF:-1,TR:BEINSPORTS 1 UHD tvg-name="KırıK ANDROIDBein SPOR FHD 1 TR" "group-title="KırıK ANDROID SPOR"
-http://f.ok2.se:8000/martin1/martin123/27119.m3u8
-#EXTINF:-1,BEIN SPORTS 1 HD 1080 TR tvg-name="KırıK ANDROIDBein SPOR FHD 1 TR" "group-title="KırıK ANDROID SPOR"
-http://ok2.se:8000/superman/12345/27119.m3u8
-#EXTINF:-1,TR-SP:BEIN SPORT 1 HD (TTNET ONLY) tvg-name="KırıK ANDROID Bein SPOR 1 MAÇ  TR" "group-title="KırıK ANDROID SPOR"
-http://mahs.work:80/Bashar277n/Bs4354AltB/30636.m3u8
-#EXTINF:-1,TR-SP:BEIN SPORT 1 SD (TTNET ONLY) tvg-name="KırıK ANDROID Bein SPOR 1 MAÇ 2 TR" "group-title="KırıK ANDROID SPOR"
-http://mahs.work:80/Bashar277n/Bs4354AltB/30637.m3u8
-#EXTINF:-1,TR-SP:BEIN SPORT 1 UHD (TTNET ONLY) tvg-name="KırıK ANDROID Bein SPOR 1 MAÇ 3 TR" "group-title="KırıK ANDROID SPOR"
-http://mahs.work:80/Bashar277n/Bs4354AltB/30638.m3u8
-#EXTINF:-1,TR-SP:Bein Sport 1 HD tvg-name="KırıK ANDROID Bein SPOR 1 MAÇ 4 TR" "group-title="KırıK ANDROID SPOR"
-http://mahs.work:80/Bashar277n/Bs4354AltB/30639
-#EXTINF:-1,beIN SPORTS 1 HD tvg-name="KırıK ANDROID Bein SPOR HD 1 TR" "group-title="KırıK ANDROID SPOR"
-http://digimobil.org:7899/a-azarkan1/Kompas711/7057
-#EXTINF:-1,Bein Spor 1  Local 720 tvg-name="KırıK ANDROID Bein SPOR 720 1 TR" "group-title="KırıK ANDROID SPOR"
-http://digimobil.org:7899/a-azarkan1/Kompas711/11778
-#EXTINF:-1,TR:beIN SPORTS 1 720p tvg-name="KırıK ANDROID Bein SPOR 720 1 TR" "group-title="KırıK ANDROID SPOR"
-http://digimobil.org:7899/a-azarkan1/Kompas711/26475
-#EXTINF:-1,[TR]BEIN SPORTS 1 50 fps tvg-name="KırıK ANDROIDBein SPOR 50FPS 1 TR" "group-title="KırıK ANDROID SPOR"
-http://digimobil.org:7899/a-azarkan1/Kompas711/26476
-#EXTINF:-1,TR: BEIN SPORTS 1 BK tvg-name="KırıK ANDROIDBein SPOR FHD 1 TR" "group-title="KırıK ANDROID SPOR"
-http://digimobil.org:7899/a-azarkan1/Kompas711/19304
-#EXTINF:-1,TR:Bein sport 720 tvg-name="KırıK ANDROIDBein SPOR 720K 1 TR" "group-title="KırıK ANDROID SPOR"
-http://digimobil.org:7899/a-azarkan1/Kompas711/16160
-#EXTINF:-1,TR-SP:BEIN SPORT 1 H265 4K tvg-name="KırıK ANDROIDBein SPOR 1 4K TR" "group-title="KırıK ANDROID SPOR"
-http://mahs.work:80/Bashar277n/Bs4354AltB/30625
-#EXTINF:-1,|TR| BEINSPORTS 1 SD tvg-name="KırıK ANDROIDBein SPOR SD 1 TR" "group-title="KırıK ANDROID SPOR"
-http://iptvclub.live:25461/sXoAgDqNYp6dEUS/I77nt7FTKek4bRG/76062
-#EXTINF:-1,|TR| BEIN SPORTS 1 UHD tvg-name="KırıK ANDROIDBein SPOR (50fps 1920x1080)UHD  1 TR" "group-title="KırıK ANDROID SPOR"
-http://iptvclub.live:25461/sXoAgDqNYp6dEUS/I77nt7FTKek4bRG/76058
-#EXTINF:-1,|TR| BEIN SPORTS 1 KRK tvg-name="KırıK ANDROIDBein SPOR KRK  1 TR" "group-title="KırıK ANDROID SPOR"
-http://live01-fbx.vucos.net/live/mlyspor1hd/chunks.m3u8
-#EXTINF:-1,beIN Sports 2 HD TR tvg-name="KırıK ANDROIDBein SPOR HD++ 2 TR" "group-title="KırıK ANDROID SPOR"
-https://x.birakmamseni.xyz/kaynakstreamradarco/25/strmrdr.m3u8
-#EXTINF:-1,TR-SP:Bein Sport 2 HD tvg-name="KırıK ANDROID Bein SPOR  2 TR" "group-title="KırıK ANDROID SPOR
-http://mahs.work:80/Bashar277n/Bs4354AltB/30640 
-#EXTINF:-1,TR-SP:BEIN SPORT 2 H265 4K tvg-name="KırıK ANDROID Bein SPOR 4K 2 TR" "group-title="KırıK ANDROID SPOR
-http://mahs.work:80/Bashar277n/Bs4354AltB/30626
-#EXTINF:-1,beIN Sports 2 HD TR tvg-name="KırıK ANDROIDBein SPOR HD 2 TR" "group-title="KırıK ANDROID SPOR"
-http://iptv-line.com:7899/Miki/123456/26474
-#EXTINF:-1,BEIN SPORTS 2 HD 1080 TR tvg-name="KırıK ANDROIDBein SPOR HD 2 TR" "group-title="KırıK ANDROID SPOR"
-http://m3ulink.com:7899/atchareya1@gmail.com/bVzHHjwVCJ/4189
-#EXTINF:-1,TR:beIN SPORTS 2 tvg-name="KırıK ANDROIDBein SPOR 2 TR" "group-title="KırıK ANDROID SPOR"
-http://iptv-line.com:7899/Miki/123456/26469
-#EXTINF:-1,BEIN SPORTS HD2+ tvg-name="KırıK ANDROIDBein SPOR HD+ 2 TR" "group-title="KırıK ANDROID SPOR"
-http://f.ok2.se:8000/Fonzi/Fonzi/27120
-#EXTINF:-1,BEIN SPORTS HD2 tvg-name="KırıK ANDROIDBein SPOR FHD 2 TR" "group-title="KırıK ANDROID SPOR"
-http://rocksat.ddns.net:25461/jLOjyyvUHw7cIqS/vdgYAgYDIA1svfU/76059
-#EXTINF:-1,|TR| BEIN SPORTS 2 HD tvg-name="KırıK ANDROIDBein SPOR HD 2 TR" "group-title="KırıK ANDROID SPOR"
-http://rocksat.ddns.net:25461/jLOjyyvUHw7cIqS/vdgYAgYDIA1svfU/76063
-#EXTINF:-1,|TR| BEIN SPORTS 2 UHD tvg-name="KırıK ANDROIDBein SPOR UHD 2 TR" "group-title="KırıK ANDROID SPOR"
-http://f.ok2.se:8000/victor1/victor123/27120
-#EXTINF:-1,beIN Sports 2 (Yedek) HD TR tvg-name="KırıK ANDROIDBein SPOR YEDEK 2 TR" "group-title="KırıK ANDROID SPOR"
-http://portal-protv.club:8080/Ulf/Ulf/16291
-#EXTINF:-1,TR:BEINSPORTS 2 UHD* tvg-name="KırıK ANDROIDBein SPOR FHD 2 TR" "group-title="KırıK ANDROID SPOR"
-http://85.203.33.42:80/TageDavidsen/prLdWh254/15943
-#EXTINF:-1,TR:BEINSPORTS 2 UHD tvg-name="KırıK ANDROIDBein SPOR UHD 2 TR" "group-title="KırıK ANDROID SPOR"
-http://f.ok2.se:8000/martin1/martin123/27120
-#EXTINF:-1,|TR| BEIN SPORTS 2 UHD tvg-name="KırıK ANDROID Bein SPOR UHD 2 TR" "group-title="KırıK ANDROID SPOR"
-http://iptvclub.live:25461/sXoAgDqNYp6dEUS/I77nt7FTKek4bRG/76059
-#EXTINF:-1,BEIN SPORTS HD3 tvg-name="KırıK ANDROIDBein SPOR HD 3 TR" "group-title="KırıK ANDROID SPOR"
-https://x.birakmamseni.xyz/kaynakstreamradarco/26/strmrdr.m3u8
-#EXTINF:-1,BEIN SPORTS HD3 tvg-name="KırıK ANDROIDBein SPOR HD 3 TR" "group-title="KırıK ANDROID SPOR"
-http://iptv-line.com:7899/Miki/123456/26473
-#EXTINF:-1,TR:beIN SPORTS 3 tvg-name="KırıK ANDROIDBein SPOR HD 3 TR" "group-title="KırıK ANDROID SPOR"
-http://m3ulink.com:7899/atchareya1@gmail.com/bVzHHjwVCJ/4190
-#EXTINF:-1,|TR| BEIN SPORTS 3 HDtvg-name="KırıK ANDROIDBein SPOR HD 3 TR" "group-title="KırıK ANDROID SPOR"
-http://iptv-line.com:7899/Miki/123456/26468
-#EXTINF:-1,beIN Sports 3 HD TR tvg-name="KırıK ANDROIDBein SPOR HD 3 TR" "group-title="KırıK ANDROID SPOR"
-http://mytv.fun:8080/vqvtmg4k3m/c4mq8sverj/8740
-#EXTINF:-1,BEIN SPORTS HD3+ tvg-name="KırıK ANDROIDBein SPOR HD+ 3 TR" "group-title="KırıK ANDROID SPOR"
-http://mytv.fun:8080/4k8xnd1yto/15ms27u4gf/14094
-#EXTINF:-1,beIN Sports 3 (Yedek) HD TR tvg-name="KırıK ANDROIDBein SPOR HD YEDEK 3 TR" "group-title="KırıK ANDROID SPOR"
-http://tv.gloryiptv.itv.world:8080/3p4rw0w9mo/q2shqc41ap/8740
-#EXTINF:-1,TR:BEINSPORTS 3 UHD tvg-name="KırıK ANDROIDBein SPOR UHD 3 TR" "group-title="KırıK ANDROID SPOR"
-http://portal-protv.club:8080/Ulf/Ulf/16290
-#EXTINF:-1,TR:CBC SPORT tvg-name="KırıK ANDROIDAZ CBC SPORT UHD TR" "group-title="KırıK ANDROID SPOR"
-https://streams.livetv.az/azerbaijan/cbc_sport_hd/chunks.m3u8
-#EXTINF:-1,S Sport HD TR tvg-name="KırıK ANDROIDS SPORT HD+ TR" "group-title="KırıK ANDROID SPOR"
-https://cdn.nsxserve.net/hlslive/147.m3u8
-
-
-
-
-
-
-
-
-
-
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="TR: TBMM TV" tvg-logo="" group-title="Turk Ulusal",TR: TBMM TV
+http://176.9.114.116:8000/live/eymen/01072018/12591.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: TRT 1" tvg-logo="" group-title="Turk Ulusal",TR: TRT 1
+http://176.9.114.116:8000/live/eymen/01072018/431.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: TRT 1 HD" tvg-logo="" group-title="Turk Ulusal",TR: TRT 1 HD
+http://176.9.114.116:8000/live/eymen/01072018/3.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: TRT 1 FHD" tvg-logo="" group-title="Turk Ulusal",TR: TRT 1 FHD
+http://176.9.114.116:8000/live/eymen/01072018/2.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: TRT 2" tvg-logo="" group-title="",TR: TRT 2
+http://176.9.114.116:8000/live/eymen/01072018/451.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: STAR" tvg-logo="" group-title="Turk Ulusal",TR: STAR
+http://176.9.114.116:8000/live/eymen/01072018/436.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: STAR HD" tvg-logo="" group-title="Turk Ulusal",TR: STAR HD
+http://176.9.114.116:8000/live/eymen/01072018/18.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: STAR FHD" tvg-logo="" group-title="Turk Ulusal",TR: STAR FHD
+http://176.9.114.116:8000/live/eymen/01072018/141.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: EURO STAR" tvg-logo="" group-title="Turk Ulusal",TR: EURO STAR
+http://176.9.114.116:8000/live/eymen/01072018/444.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SHOW TV" tvg-logo="" group-title="Turk Ulusal",TR: SHOW TV
+http://176.9.114.116:8000/live/eymen/01072018/414.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SHOW TV HD" tvg-logo="" group-title="Turk Ulusal",TR: SHOW TV HD
+http://176.9.114.116:8000/live/eymen/01072018/21.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SHOW TV FHD" tvg-logo="" group-title="Turk Ulusal",TR: SHOW TV FHD
+http://176.9.114.116:8000/live/eymen/01072018/434.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SHOW TÜRK" tvg-logo="" group-title="Turk Ulusal",TR: SHOW TÜRK
+http://176.9.114.116:8000/live/eymen/01072018/454.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: ATV" tvg-logo="" group-title="Turk Ulusal",TR: ATV
+http://176.9.114.116:8000/live/eymen/01072018/12874.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: ATV HD" tvg-logo="" group-title="Turk Ulusal",TR: ATV HD
+http://176.9.114.116:8000/live/eymen/01072018/31.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: ATV FHD" tvg-logo="" group-title="Turk Ulusal",TR: ATV FHD
+http://176.9.114.116:8000/live/eymen/01072018/140.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Kanal D" tvg-logo="" group-title="Turk Ulusal",TR: Kanal D
+http://176.9.114.116:8000/live/eymen/01072018/433.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Kanal D  HD" tvg-logo="" group-title="Turk Ulusal",TR: Kanal D  HD
+http://176.9.114.116:8000/live/eymen/01072018/26.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Kanal D FHD" tvg-logo="" group-title="Turk Ulusal",TR: Kanal D FHD
+http://176.9.114.116:8000/live/eymen/01072018/142.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Euro D" tvg-logo="" group-title="Turk Ulusal",TR: Euro D
+http://176.9.114.116:8000/live/eymen/01072018/455.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: KANAL 7 HD" tvg-logo="" group-title="Turk Ulusal",TR: KANAL 7 HD
+http://176.9.114.116:8000/live/eymen/01072018/37.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:KANAL 7 AVRUPA" tvg-logo="" group-title="Turk Ulusal",TR:KANAL 7 AVRUPA
+http://176.9.114.116:8000/live/eymen/01072018/456.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: FOX" tvg-logo="" group-title="Turk Ulusal",TR: FOX
+http://176.9.114.116:8000/live/eymen/01072018/435.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: FOX HD" tvg-logo="" group-title="Turk Ulusal",TR: FOX HD
+http://176.9.114.116:8000/live/eymen/01072018/15.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: FOX FHD" tvg-logo="" group-title="Turk Ulusal",TR: FOX FHD
+http://176.9.114.116:8000/live/eymen/01072018/71.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: TV 8 FHD" tvg-logo="" group-title="Turk Ulusal",TR: TV 8 FHD
+http://176.9.114.116:8000/live/eymen/01072018/68.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: TV8 HD" tvg-logo="" group-title="Turk Ulusal",TR: TV8 HD
+http://176.9.114.116:8000/live/eymen/01072018/11.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: TV8 NOKTABES" tvg-logo="" group-title="Turk Ulusal",TR: TV8 NOKTABES
+http://176.9.114.116:8000/live/eymen/01072018/12.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: BEYAZ TV HD" tvg-logo="" group-title="Turk Ulusal",TR: BEYAZ TV HD
+http://176.9.114.116:8000/live/eymen/01072018/33.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:BEYAZ  TV" tvg-logo="" group-title="Turk Ulusal",TR:BEYAZ  TV
+http://176.9.114.116:8000/live/eymen/01072018/442.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: A2 HD" tvg-logo="" group-title="Turk Ulusal",TR: A2 HD
+http://176.9.114.116:8000/live/eymen/01072018/35.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: TEVE 2 HD" tvg-logo="" group-title="Turk Ulusal",TR: TEVE 2 HD
+http://176.9.114.116:8000/live/eymen/01072018/358.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:360" tvg-logo="" group-title="Turk Ulusal",TR:360
+http://176.9.114.116:8000/live/eymen/01072018/407.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:showmax" tvg-logo="" group-title="Turk Ulusal",TR:showmax
+http://176.9.114.116:8000/live/eymen/01072018/432.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Power FM" tvg-logo="" group-title="Turk Muzik",TR: Power FM
+http://176.9.114.116:8000/live/eymen/01072018/85.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: ALEM FM" tvg-logo="" group-title="Turk Muzik",TR: ALEM FM
+http://176.9.114.116:8000/live/eymen/01072018/86.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: TRT DIYANET" tvg-logo="" group-title="Turk Ulusal",TR: TRT DIYANET
+http://176.9.114.116:8000/live/eymen/01072018/102.ts
+#EXTINF:-1 tvg-ID="" tvg-name="-----TURK YEREL-----" tvg-logo="" group-title="Turk Yerel",-----TURK YEREL-----
+http://176.9.114.116:8000/live/eymen/01072018/143.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: CEM TV" tvg-logo="" group-title="Turk Yerel",TR: CEM TV
+http://176.9.114.116:8000/live/eymen/01072018/17532.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: REHBER TV" tvg-logo="" group-title="Turk Yerel",TR: REHBER TV
+http://176.9.114.116:8000/live/eymen/01072018/17520.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Tek Rumeli Tv" tvg-logo="" group-title="Turk Yerel",TR: Tek Rumeli Tv
+http://176.9.114.116:8000/live/eymen/01072018/13321.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:TV CAY" tvg-logo="" group-title="Turk Yerel",TR:TV CAY
+http://176.9.114.116:8000/live/eymen/01072018/355.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:Mavi Karadeniz" tvg-logo="" group-title="Turk Yerel",TR:Mavi Karadeniz
+http://176.9.114.116:8000/live/eymen/01072018/439.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: MELTEM TV" tvg-logo="" group-title="Turk Yerel",TR: MELTEM TV
+http://176.9.114.116:8000/live/eymen/01072018/14795.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:DENiZLi" tvg-logo="" group-title="Turk Yerel",TR:DENiZLi
+http://176.9.114.116:8000/live/eymen/01072018/356.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Kanal 26" tvg-logo="" group-title="Turk Yerel",TR: Kanal 26
+http://176.9.114.116:8000/live/eymen/01072018/438.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:Gala" tvg-logo="" group-title="Turk Yerel",TR:Gala
+http://176.9.114.116:8000/live/eymen/01072018/357.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:  LALEGÜL" tvg-logo="" group-title="Turk Yerel",TR:  LALEGÜL
+http://176.9.114.116:8000/live/eymen/01072018/101.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: VATAN TV" tvg-logo="" group-title="Turk Yerel",TR: VATAN TV
+http://176.9.114.116:8000/live/eymen/01072018/154.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: TV1 KAYSERI" tvg-logo="" group-title="Turk Yerel",TR: TV1 KAYSERI
+http://176.9.114.116:8000/live/eymen/01072018/150.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Mekke Tv" tvg-logo="" group-title="Turk Yerel",TR: Mekke Tv
+http://176.9.114.116:8000/live/eymen/01072018/145.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: TLC TV HD" tvg-logo="" group-title="Turk Belgesel",TR: TLC TV HD
+http://176.9.114.116:8000/live/eymen/01072018/147.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: PAMUKKALE TV" tvg-logo="" group-title="Turk Yerel",TR: PAMUKKALE TV
+http://176.9.114.116:8000/live/eymen/01072018/151.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: KRT TV" tvg-logo="" group-title="Turk Yerel",TR: KRT TV
+http://176.9.114.116:8000/live/eymen/01072018/148.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: KANAL ORDU" tvg-logo="" group-title="Turk Yerel",TR: KANAL ORDU
+http://176.9.114.116:8000/live/eymen/01072018/165.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: KONYA TV" tvg-logo="" group-title="Turk Yerel",TR: KONYA TV
+http://176.9.114.116:8000/live/eymen/01072018/144.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: ERT ERZINCAN TV" tvg-logo="" group-title="Turk Yerel",TR: ERT ERZINCAN TV
+http://176.9.114.116:8000/live/eymen/01072018/159.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: CAN TV" tvg-logo="" group-title="Turk Yerel",TR: CAN TV
+http://176.9.114.116:8000/live/eymen/01072018/155.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: KUDUS TV" tvg-logo="" group-title="Turk Yerel",TR: KUDUS TV
+http://176.9.114.116:8000/live/eymen/01072018/160.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: ALTAS ORDU" tvg-logo="" group-title="Turk Yerel",TR: ALTAS ORDU
+http://176.9.114.116:8000/live/eymen/01072018/178.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: AKSU TV" tvg-logo="" group-title="Turk Yerel",TR: AKSU TV
+http://176.9.114.116:8000/live/eymen/01072018/164.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: AFYON TURK TV" tvg-logo="" group-title="Turk Yerel",TR: AFYON TURK TV
+http://176.9.114.116:8000/live/eymen/01072018/174.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: 38 Kent TV" tvg-logo="" group-title="Turk Yerel",TR: 38 Kent TV
+http://176.9.114.116:8000/live/eymen/01072018/149.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: YILDIZ TV" tvg-logo="" group-title="Turk Yerel",TR: YILDIZ TV
+http://176.9.114.116:8000/live/eymen/01072018/14996.ts
+#EXTINF:-1 tvg-ID="" tvg-name="-----TURK COCUK-----" tvg-logo="" group-title="Turk Cocuk",-----TURK COCUK-----
+http://176.9.114.116:8000/live/eymen/01072018/73.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: TRT COCUK HD" tvg-logo="" group-title="Turk Cocuk",TR: TRT COCUK HD
+http://176.9.114.116:8000/live/eymen/01072018/77.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Cartoon Network" tvg-logo="" group-title="Turk Cocuk",TR: Cartoon Network
+http://176.9.114.116:8000/live/eymen/01072018/78.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Baby Tv" tvg-logo="" group-title="Turk Cocuk",TR: Baby Tv
+http://176.9.114.116:8000/live/eymen/01072018/82.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Baby TV HD" tvg-logo="" group-title="Turk Cocuk",TR: Baby TV HD
+http://176.9.114.116:8000/live/eymen/01072018/81.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Disney Junior" tvg-logo="" group-title="Turk Cocuk",TR: Disney Junior
+http://176.9.114.116:8000/live/eymen/01072018/84.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: DISNEY JUNIOR HD" tvg-logo="" group-title="Turk Cocuk",TR: DISNEY JUNIOR HD
+http://176.9.114.116:8000/live/eymen/01072018/176.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Disney Channel" tvg-logo="" group-title="Turk Cocuk",TR: Disney Channel
+http://176.9.114.116:8000/live/eymen/01072018/83.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: TJK Tv" tvg-logo="" group-title="Turk Spor",TR: TJK Tv
+http://176.9.114.116:8000/live/eymen/01072018/69.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Nickel Odeon HD" tvg-logo="" group-title="Turk Cocuk",TR: Nickel Odeon HD
+http://176.9.114.116:8000/live/eymen/01072018/79.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Nick JR HD" tvg-logo="" group-title="Turk Cocuk",TR: Nick JR HD
+http://176.9.114.116:8000/live/eymen/01072018/80.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:  Minika GO" tvg-logo="" group-title="Turk Cocuk",TR:  Minika GO
+http://176.9.114.116:8000/live/eymen/01072018/74.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Minika Cocuk" tvg-logo="" group-title="Turk Cocuk",TR: Minika Cocuk
+http://176.9.114.116:8000/live/eymen/01072018/75.ts
+#EXTINF:-1 tvg-ID="" tvg-name="-----TURK SPOR-----" tvg-logo="" group-title="Turk Spor",-----TURK SPOR-----
+http://176.9.114.116:8000/live/eymen/01072018/40.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:BEIN SPORT  1  EXTRA 66 HD" tvg-logo="" group-title="Turk Spor",TR:BEIN SPORT  1  EXTRA 66 HD
+http://176.9.114.116:8000/live/eymen/01072018/43.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Bein sports 1 Tvq" tvg-logo="" group-title="Turk Spor",TR: Bein sports 1 Tvq
+http://176.9.114.116:8000/live/eymen/01072018/41.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Bein Sports 1 LQ" tvg-logo="" group-title="Turk Spor",TR: Bein Sports 1 LQ
+http://176.9.114.116:8000/live/eymen/01072018/44.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:  Bein Sports 1 HD HM (HIGTMEDIUMQALITY)" tvg-logo="" group-title="Turk Spor",TR:  Bein Sports 1 HD HM (HIGTMEDIUMQALITY)
+http://176.9.114.116:8000/live/eymen/01072018/42.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Bein Sport 1  MQ (MEDIUM QUALITY)" tvg-logo="" group-title="Turk Spor",TR: Bein Sport 1  MQ (MEDIUM QUALITY)
+http://176.9.114.116:8000/live/eymen/01072018/46.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Bein Sport 1  HQ((HIGHT QUALITY)" tvg-logo="" group-title="Turk Spor",TR: Bein Sport 1  HQ((HIGHT QUALITY)
+http://176.9.114.116:8000/live/eymen/01072018/45.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Bein sport 1 HD K" tvg-logo="" group-title="Turk Spor",TR: Bein sport 1 HD K
+http://176.9.114.116:8000/live/eymen/01072018/63.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: BEIN SPORT 2 HD" tvg-logo="" group-title="Turk Spor",TR: BEIN SPORT 2 HD
+http://176.9.114.116:8000/live/eymen/01072018/47.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: BEIN SPORT 3 HD" tvg-logo="" group-title="Turk Spor",TR: BEIN SPORT 3 HD
+http://176.9.114.116:8000/live/eymen/01072018/48.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Bein Sports 4 HD" tvg-logo="" group-title="Turk Spor",TR: Bein Sports 4 HD
+http://176.9.114.116:8000/live/eymen/01072018/49.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Bein Sports Max 1 HD" tvg-logo="" group-title="Turk Spor",TR: Bein Sports Max 1 HD
+http://176.9.114.116:8000/live/eymen/01072018/50.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Bein Sports Max 2 HD" tvg-logo="" group-title="Turk Spor",TR: Bein Sports Max 2 HD
+http://176.9.114.116:8000/live/eymen/01072018/51.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Bein Sports Haber HD" tvg-logo="" group-title="Turk Spor",TR: Bein Sports Haber HD
+http://176.9.114.116:8000/live/eymen/01072018/52.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Tivibu Spor 1 HD" tvg-logo="" group-title="Turk Spor",TR: Tivibu Spor 1 HD
+http://176.9.114.116:8000/live/eymen/01072018/53.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Tivibu Spor 2 HD" tvg-logo="" group-title="Turk Spor",TR: Tivibu Spor 2 HD
+http://176.9.114.116:8000/live/eymen/01072018/54.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Tivibu Spor 3 HD" tvg-logo="" group-title="Turk Spor",TR: Tivibu Spor 3 HD
+http://176.9.114.116:8000/live/eymen/01072018/55.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Bein İz HD" tvg-logo="" group-title="Turk Belgesel",TR: Bein İz HD
+http://176.9.114.116:8000/live/eymen/01072018/56.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: S sport HD" tvg-logo="" group-title="Turk Spor",TR: S sport HD
+http://176.9.114.116:8000/live/eymen/01072018/58.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: S SPORT 2 HD" tvg-logo="" group-title="Turk Spor",TR: S SPORT 2 HD
+http://176.9.114.116:8000/live/eymen/01072018/57.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Spor Smart 1 HD" tvg-logo="" group-title="Turk Spor",TR: Spor Smart 1 HD
+http://176.9.114.116:8000/live/eymen/01072018/59.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Spor Smart 2 HD" tvg-logo="" group-title="Turk Spor",TR: Spor Smart 2 HD
+http://176.9.114.116:8000/live/eymen/01072018/60.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Eurosport 1 HD" tvg-logo="" group-title="Turk Spor",TR: Eurosport 1 HD
+http://176.9.114.116:8000/live/eymen/01072018/67.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Eurosport 2 HD" tvg-logo="" group-title="Turk Spor",TR: Eurosport 2 HD
+http://176.9.114.116:8000/live/eymen/01072018/66.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Trt Spor HD" tvg-logo="" group-title="Turk Spor",TR: Trt Spor HD
+http://176.9.114.116:8000/live/eymen/01072018/64.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: TRT SPOR FHD" tvg-logo="" group-title="Turk Spor",TR: TRT SPOR FHD
+http://176.9.114.116:8000/live/eymen/01072018/76.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: A Spor HD" tvg-logo="" group-title="Turk Spor",TR: A Spor HD
+http://176.9.114.116:8000/live/eymen/01072018/65.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: A Spor FHD" tvg-logo="" group-title="Turk Spor",TR: A Spor FHD
+http://176.9.114.116:8000/live/eymen/01072018/17003.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Fenerbahce TV HD" tvg-logo="" group-title="Turk Spor",TR: Fenerbahce TV HD
+http://176.9.114.116:8000/live/eymen/01072018/62.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Gs TV HD" tvg-logo="" group-title="Turk Spor",TR: Gs TV HD
+http://176.9.114.116:8000/live/eymen/01072018/61.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SPORTS TV HD" tvg-logo="" group-title="Turk Spor",TR: SPORTS TV HD
+http://176.9.114.116:8000/live/eymen/01072018/70.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: NBA Tv HD" tvg-logo="" group-title="Turk Spor",TR: NBA Tv HD
+http://176.9.114.116:8000/live/eymen/01072018/72.ts
 
 
 
