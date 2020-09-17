@@ -1,223 +1,480 @@
-#EXTM3U
-#EXTINF:-1 tvg-ID="" tvg-name="TR: TBMM TV" tvg-logo="" group-title="Turk Ulusal",TR: TBMM TV
-http://176.9.114.116:8000/live/eymen/01072018/12591.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: TRT 1" tvg-logo="" group-title="Turk Ulusal",TR: TRT 1
-http://176.9.114.116:8000/live/eymen/01072018/431.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: TRT 1 HD" tvg-logo="" group-title="Turk Ulusal",TR: TRT 1 HD
-http://176.9.114.116:8000/live/eymen/01072018/3.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: TRT 1 FHD" tvg-logo="" group-title="Turk Ulusal",TR: TRT 1 FHD
-http://176.9.114.116:8000/live/eymen/01072018/2.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: TRT 2" tvg-logo="" group-title="",TR: TRT 2
-http://176.9.114.116:8000/live/eymen/01072018/451.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: STAR" tvg-logo="" group-title="Turk Ulusal",TR: STAR
-http://176.9.114.116:8000/live/eymen/01072018/436.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: STAR HD" tvg-logo="" group-title="Turk Ulusal",TR: STAR HD
-http://176.9.114.116:8000/live/eymen/01072018/18.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: STAR FHD" tvg-logo="" group-title="Turk Ulusal",TR: STAR FHD
-http://176.9.114.116:8000/live/eymen/01072018/141.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: EURO STAR" tvg-logo="" group-title="Turk Ulusal",TR: EURO STAR
-http://176.9.114.116:8000/live/eymen/01072018/444.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: SHOW TV" tvg-logo="" group-title="Turk Ulusal",TR: SHOW TV
-http://176.9.114.116:8000/live/eymen/01072018/414.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: SHOW TV HD" tvg-logo="" group-title="Turk Ulusal",TR: SHOW TV HD
-http://176.9.114.116:8000/live/eymen/01072018/21.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: SHOW TV FHD" tvg-logo="" group-title="Turk Ulusal",TR: SHOW TV FHD
-http://176.9.114.116:8000/live/eymen/01072018/434.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: SHOW TÜRK" tvg-logo="" group-title="Turk Ulusal",TR: SHOW TÜRK
-http://176.9.114.116:8000/live/eymen/01072018/454.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: ATV" tvg-logo="" group-title="Turk Ulusal",TR: ATV
-http://176.9.114.116:8000/live/eymen/01072018/12874.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: ATV HD" tvg-logo="" group-title="Turk Ulusal",TR: ATV HD
-http://176.9.114.116:8000/live/eymen/01072018/31.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: ATV FHD" tvg-logo="" group-title="Turk Ulusal",TR: ATV FHD
-http://176.9.114.116:8000/live/eymen/01072018/140.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: Kanal D" tvg-logo="" group-title="Turk Ulusal",TR: Kanal D
-http://176.9.114.116:8000/live/eymen/01072018/433.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: Kanal D  HD" tvg-logo="" group-title="Turk Ulusal",TR: Kanal D  HD
-http://176.9.114.116:8000/live/eymen/01072018/26.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: Kanal D FHD" tvg-logo="" group-title="Turk Ulusal",TR: Kanal D FHD
-http://176.9.114.116:8000/live/eymen/01072018/142.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: Euro D" tvg-logo="" group-title="Turk Ulusal",TR: Euro D
-http://176.9.114.116:8000/live/eymen/01072018/455.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: KANAL 7 HD" tvg-logo="" group-title="Turk Ulusal",TR: KANAL 7 HD
-http://176.9.114.116:8000/live/eymen/01072018/37.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR:KANAL 7 AVRUPA" tvg-logo="" group-title="Turk Ulusal",TR:KANAL 7 AVRUPA
-http://176.9.114.116:8000/live/eymen/01072018/456.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: FOX" tvg-logo="" group-title="Turk Ulusal",TR: FOX
-http://176.9.114.116:8000/live/eymen/01072018/435.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: FOX HD" tvg-logo="" group-title="Turk Ulusal",TR: FOX HD
-http://176.9.114.116:8000/live/eymen/01072018/15.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: FOX FHD" tvg-logo="" group-title="Turk Ulusal",TR: FOX FHD
-http://176.9.114.116:8000/live/eymen/01072018/71.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: TV 8 FHD" tvg-logo="" group-title="Turk Ulusal",TR: TV 8 FHD
-http://176.9.114.116:8000/live/eymen/01072018/68.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: TV8 HD" tvg-logo="" group-title="Turk Ulusal",TR: TV8 HD
-http://176.9.114.116:8000/live/eymen/01072018/11.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: TV8 NOKTABES" tvg-logo="" group-title="Turk Ulusal",TR: TV8 NOKTABES
-http://176.9.114.116:8000/live/eymen/01072018/12.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: BEYAZ TV HD" tvg-logo="" group-title="Turk Ulusal",TR: BEYAZ TV HD
-http://176.9.114.116:8000/live/eymen/01072018/33.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR:BEYAZ  TV" tvg-logo="" group-title="Turk Ulusal",TR:BEYAZ  TV
-http://176.9.114.116:8000/live/eymen/01072018/442.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: A2 HD" tvg-logo="" group-title="Turk Ulusal",TR: A2 HD
-http://176.9.114.116:8000/live/eymen/01072018/35.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: TEVE 2 HD" tvg-logo="" group-title="Turk Ulusal",TR: TEVE 2 HD
-http://176.9.114.116:8000/live/eymen/01072018/358.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR:360" tvg-logo="" group-title="Turk Ulusal",TR:360
-http://176.9.114.116:8000/live/eymen/01072018/407.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR:showmax" tvg-logo="" group-title="Turk Ulusal",TR:showmax
-http://176.9.114.116:8000/live/eymen/01072018/432.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: Power FM" tvg-logo="" group-title="Turk Muzik",TR: Power FM
-http://176.9.114.116:8000/live/eymen/01072018/85.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: ALEM FM" tvg-logo="" group-title="Turk Muzik",TR: ALEM FM
-http://176.9.114.116:8000/live/eymen/01072018/86.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: TRT DIYANET" tvg-logo="" group-title="Turk Ulusal",TR: TRT DIYANET
-http://176.9.114.116:8000/live/eymen/01072018/102.ts
-#EXTINF:-1 tvg-ID="" tvg-name="-----TURK YEREL-----" tvg-logo="" group-title="Turk Yerel",-----TURK YEREL-----
-http://176.9.114.116:8000/live/eymen/01072018/143.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: CEM TV" tvg-logo="" group-title="Turk Yerel",TR: CEM TV
-http://176.9.114.116:8000/live/eymen/01072018/17532.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: REHBER TV" tvg-logo="" group-title="Turk Yerel",TR: REHBER TV
-http://176.9.114.116:8000/live/eymen/01072018/17520.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: Tek Rumeli Tv" tvg-logo="" group-title="Turk Yerel",TR: Tek Rumeli Tv
-http://176.9.114.116:8000/live/eymen/01072018/13321.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR:TV CAY" tvg-logo="" group-title="Turk Yerel",TR:TV CAY
-http://176.9.114.116:8000/live/eymen/01072018/355.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR:Mavi Karadeniz" tvg-logo="" group-title="Turk Yerel",TR:Mavi Karadeniz
-http://176.9.114.116:8000/live/eymen/01072018/439.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: MELTEM TV" tvg-logo="" group-title="Turk Yerel",TR: MELTEM TV
-http://176.9.114.116:8000/live/eymen/01072018/14795.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR:DENiZLi" tvg-logo="" group-title="Turk Yerel",TR:DENiZLi
-http://176.9.114.116:8000/live/eymen/01072018/356.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: Kanal 26" tvg-logo="" group-title="Turk Yerel",TR: Kanal 26
-http://176.9.114.116:8000/live/eymen/01072018/438.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR:Gala" tvg-logo="" group-title="Turk Yerel",TR:Gala
-http://176.9.114.116:8000/live/eymen/01072018/357.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR:  LALEGÜL" tvg-logo="" group-title="Turk Yerel",TR:  LALEGÜL
-http://176.9.114.116:8000/live/eymen/01072018/101.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: VATAN TV" tvg-logo="" group-title="Turk Yerel",TR: VATAN TV
-http://176.9.114.116:8000/live/eymen/01072018/154.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: TV1 KAYSERI" tvg-logo="" group-title="Turk Yerel",TR: TV1 KAYSERI
-http://176.9.114.116:8000/live/eymen/01072018/150.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: Mekke Tv" tvg-logo="" group-title="Turk Yerel",TR: Mekke Tv
-http://176.9.114.116:8000/live/eymen/01072018/145.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: TLC TV HD" tvg-logo="" group-title="Turk Belgesel",TR: TLC TV HD
-http://176.9.114.116:8000/live/eymen/01072018/147.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: PAMUKKALE TV" tvg-logo="" group-title="Turk Yerel",TR: PAMUKKALE TV
-http://176.9.114.116:8000/live/eymen/01072018/151.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: KRT TV" tvg-logo="" group-title="Turk Yerel",TR: KRT TV
-http://176.9.114.116:8000/live/eymen/01072018/148.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: KANAL ORDU" tvg-logo="" group-title="Turk Yerel",TR: KANAL ORDU
-http://176.9.114.116:8000/live/eymen/01072018/165.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: KONYA TV" tvg-logo="" group-title="Turk Yerel",TR: KONYA TV
-http://176.9.114.116:8000/live/eymen/01072018/144.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: ERT ERZINCAN TV" tvg-logo="" group-title="Turk Yerel",TR: ERT ERZINCAN TV
-http://176.9.114.116:8000/live/eymen/01072018/159.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: CAN TV" tvg-logo="" group-title="Turk Yerel",TR: CAN TV
-http://176.9.114.116:8000/live/eymen/01072018/155.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: KUDUS TV" tvg-logo="" group-title="Turk Yerel",TR: KUDUS TV
-http://176.9.114.116:8000/live/eymen/01072018/160.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: ALTAS ORDU" tvg-logo="" group-title="Turk Yerel",TR: ALTAS ORDU
-http://176.9.114.116:8000/live/eymen/01072018/178.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: AKSU TV" tvg-logo="" group-title="Turk Yerel",TR: AKSU TV
-http://176.9.114.116:8000/live/eymen/01072018/164.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: AFYON TURK TV" tvg-logo="" group-title="Turk Yerel",TR: AFYON TURK TV
-http://176.9.114.116:8000/live/eymen/01072018/174.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: 38 Kent TV" tvg-logo="" group-title="Turk Yerel",TR: 38 Kent TV
-http://176.9.114.116:8000/live/eymen/01072018/149.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: YILDIZ TV" tvg-logo="" group-title="Turk Yerel",TR: YILDIZ TV
-http://176.9.114.116:8000/live/eymen/01072018/14996.ts
-#EXTINF:-1 tvg-ID="" tvg-name="-----TURK COCUK-----" tvg-logo="" group-title="Turk Cocuk",-----TURK COCUK-----
-http://176.9.114.116:8000/live/eymen/01072018/73.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: TRT COCUK HD" tvg-logo="" group-title="Turk Cocuk",TR: TRT COCUK HD
-http://176.9.114.116:8000/live/eymen/01072018/77.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: Cartoon Network" tvg-logo="" group-title="Turk Cocuk",TR: Cartoon Network
-http://176.9.114.116:8000/live/eymen/01072018/78.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: Baby Tv" tvg-logo="" group-title="Turk Cocuk",TR: Baby Tv
-http://176.9.114.116:8000/live/eymen/01072018/82.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: Baby TV HD" tvg-logo="" group-title="Turk Cocuk",TR: Baby TV HD
-http://176.9.114.116:8000/live/eymen/01072018/81.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: Disney Junior" tvg-logo="" group-title="Turk Cocuk",TR: Disney Junior
-http://176.9.114.116:8000/live/eymen/01072018/84.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: DISNEY JUNIOR HD" tvg-logo="" group-title="Turk Cocuk",TR: DISNEY JUNIOR HD
-http://176.9.114.116:8000/live/eymen/01072018/176.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: Disney Channel" tvg-logo="" group-title="Turk Cocuk",TR: Disney Channel
-http://176.9.114.116:8000/live/eymen/01072018/83.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: TJK Tv" tvg-logo="" group-title="Turk Spor",TR: TJK Tv
-http://176.9.114.116:8000/live/eymen/01072018/69.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: Nickel Odeon HD" tvg-logo="" group-title="Turk Cocuk",TR: Nickel Odeon HD
-http://176.9.114.116:8000/live/eymen/01072018/79.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: Nick JR HD" tvg-logo="" group-title="Turk Cocuk",TR: Nick JR HD
-http://176.9.114.116:8000/live/eymen/01072018/80.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR:  Minika GO" tvg-logo="" group-title="Turk Cocuk",TR:  Minika GO
-http://176.9.114.116:8000/live/eymen/01072018/74.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: Minika Cocuk" tvg-logo="" group-title="Turk Cocuk",TR: Minika Cocuk
-http://176.9.114.116:8000/live/eymen/01072018/75.ts
-#EXTINF:-1 tvg-ID="" tvg-name="-----TURK SPOR-----" tvg-logo="" group-title="Turk Spor",-----TURK SPOR-----
-http://176.9.114.116:8000/live/eymen/01072018/40.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR:BEIN SPORT  1  EXTRA 66 HD" tvg-logo="" group-title="Turk Spor",TR:BEIN SPORT  1  EXTRA 66 HD
-http://176.9.114.116:8000/live/eymen/01072018/43.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: Bein sports 1 Tvq" tvg-logo="" group-title="Turk Spor",TR: Bein sports 1 Tvq
-http://176.9.114.116:8000/live/eymen/01072018/41.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: Bein Sports 1 LQ" tvg-logo="" group-title="Turk Spor",TR: Bein Sports 1 LQ
-http://176.9.114.116:8000/live/eymen/01072018/44.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR:  Bein Sports 1 HD HM (HIGTMEDIUMQALITY)" tvg-logo="" group-title="Turk Spor",TR:  Bein Sports 1 HD HM (HIGTMEDIUMQALITY)
-http://176.9.114.116:8000/live/eymen/01072018/42.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: Bein Sport 1  MQ (MEDIUM QUALITY)" tvg-logo="" group-title="Turk Spor",TR: Bein Sport 1  MQ (MEDIUM QUALITY)
-http://176.9.114.116:8000/live/eymen/01072018/46.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: Bein Sport 1  HQ((HIGHT QUALITY)" tvg-logo="" group-title="Turk Spor",TR: Bein Sport 1  HQ((HIGHT QUALITY)
-http://176.9.114.116:8000/live/eymen/01072018/45.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: Bein sport 1 HD K" tvg-logo="" group-title="Turk Spor",TR: Bein sport 1 HD K
-http://176.9.114.116:8000/live/eymen/01072018/63.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: BEIN SPORT 2 HD" tvg-logo="" group-title="Turk Spor",TR: BEIN SPORT 2 HD
-http://176.9.114.116:8000/live/eymen/01072018/47.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: BEIN SPORT 3 HD" tvg-logo="" group-title="Turk Spor",TR: BEIN SPORT 3 HD
-http://176.9.114.116:8000/live/eymen/01072018/48.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: Bein Sports 4 HD" tvg-logo="" group-title="Turk Spor",TR: Bein Sports 4 HD
-http://176.9.114.116:8000/live/eymen/01072018/49.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: Bein Sports Max 1 HD" tvg-logo="" group-title="Turk Spor",TR: Bein Sports Max 1 HD
-http://176.9.114.116:8000/live/eymen/01072018/50.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: Bein Sports Max 2 HD" tvg-logo="" group-title="Turk Spor",TR: Bein Sports Max 2 HD
-http://176.9.114.116:8000/live/eymen/01072018/51.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: Bein Sports Haber HD" tvg-logo="" group-title="Turk Spor",TR: Bein Sports Haber HD
-http://176.9.114.116:8000/live/eymen/01072018/52.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: Tivibu Spor 1 HD" tvg-logo="" group-title="Turk Spor",TR: Tivibu Spor 1 HD
-http://176.9.114.116:8000/live/eymen/01072018/53.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: Tivibu Spor 2 HD" tvg-logo="" group-title="Turk Spor",TR: Tivibu Spor 2 HD
-http://176.9.114.116:8000/live/eymen/01072018/54.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: Tivibu Spor 3 HD" tvg-logo="" group-title="Turk Spor",TR: Tivibu Spor 3 HD
-http://176.9.114.116:8000/live/eymen/01072018/55.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: Bein İz HD" tvg-logo="" group-title="Turk Belgesel",TR: Bein İz HD
-http://176.9.114.116:8000/live/eymen/01072018/56.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: S sport HD" tvg-logo="" group-title="Turk Spor",TR: S sport HD
-http://176.9.114.116:8000/live/eymen/01072018/58.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: S SPORT 2 HD" tvg-logo="" group-title="Turk Spor",TR: S SPORT 2 HD
-http://176.9.114.116:8000/live/eymen/01072018/57.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: Spor Smart 1 HD" tvg-logo="" group-title="Turk Spor",TR: Spor Smart 1 HD
-http://176.9.114.116:8000/live/eymen/01072018/59.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: Spor Smart 2 HD" tvg-logo="" group-title="Turk Spor",TR: Spor Smart 2 HD
-http://176.9.114.116:8000/live/eymen/01072018/60.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: Eurosport 1 HD" tvg-logo="" group-title="Turk Spor",TR: Eurosport 1 HD
-http://176.9.114.116:8000/live/eymen/01072018/67.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: Eurosport 2 HD" tvg-logo="" group-title="Turk Spor",TR: Eurosport 2 HD
-http://176.9.114.116:8000/live/eymen/01072018/66.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: Trt Spor HD" tvg-logo="" group-title="Turk Spor",TR: Trt Spor HD
-http://176.9.114.116:8000/live/eymen/01072018/64.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: TRT SPOR FHD" tvg-logo="" group-title="Turk Spor",TR: TRT SPOR FHD
-http://176.9.114.116:8000/live/eymen/01072018/76.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: A Spor HD" tvg-logo="" group-title="Turk Spor",TR: A Spor HD
-http://176.9.114.116:8000/live/eymen/01072018/65.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: A Spor FHD" tvg-logo="" group-title="Turk Spor",TR: A Spor FHD
-http://176.9.114.116:8000/live/eymen/01072018/17003.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: Fenerbahce TV HD" tvg-logo="" group-title="Turk Spor",TR: Fenerbahce TV HD
-http://176.9.114.116:8000/live/eymen/01072018/62.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: Gs TV HD" tvg-logo="" group-title="Turk Spor",TR: Gs TV HD
-http://176.9.114.116:8000/live/eymen/01072018/61.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: SPORTS TV HD" tvg-logo="" group-title="Turk Spor",TR: SPORTS TV HD
-http://176.9.114.116:8000/live/eymen/01072018/70.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR: NBA Tv HD" tvg-logo="" group-title="Turk Spor",TR: NBA Tv HD
-http://176.9.114.116:8000/live/eymen/01072018/72.ts
+#EXTINF:-1,TR190:beIN Sports HABER HD tvg-name="KırıK ANDROID Bein SPOR HABER HD TR" "group-title="KırıK ANDROID SPOR"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/32879
+#EXTINF:-1,TR187:beIN Sports FHD tvg-name="KırıK ANDROID Bein SPOR HABER FHD TR" "group-title="KırıK ANDROID SPOR"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/32882
+#EXTINF:-1,TR-SP:beIN SPORTS HABER HD tvg-name="KırıK ANDROID Bein SPOR HABER HD TR" "group-title="KırıK ANDROID SPOR"
+http://mahs.work:80/Bashar277n/Bs4354AltB/30624
+#EXTINF:-1,TR136:Turkish Bein Sports 1 tvg-name="KırıK ANDROID Bein SPOR 1 KRK-1 TR" "group-title="KırıK ANDROID SPOR"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/32933
+#EXTINF:-1,TR183:beIN Sports 1 HD tvg-name="KırıK ANDROID Bein SPOR 1 KRK 2 TR" "group-title="KırıK ANDROID SPOR"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/32886
+#EXTINF:-1,TR180:beIN Sports 1 FHD tvg-name="KırıK ANDROID Bein SPOR 1 KRK 3  TR" "group-title="KırıK ANDROID SPOR"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/32889
+#EXTINF:-1,KrK  Turkish Bein Sports 1 tvg-name="KırıK ANDROID Bein SPOR 1 KRK 4 TR" "group-title="KırıK ANDROID SPOR"
+http://digimobil.org:7899/a-azarkan1/Kompas711/7057
+#EXTINF:-1,KrK  BEIN SPORT 1 FHD tvg-name="KırıK ANDROID Bein SPOR 1 KRK 5 TR" "group-title="KırıK ANDROID SPOR"
+http://digimobil.org:7899/a-azarkan1/Kompas711/26475
+#EXTINF:-1,KrK  beIN Sport 1 HD tvg-name="KırıK ANDROID Bein SPOR 1 KRK 6 TR" "group-title="KırıK ANDROID SPOR"
+http://digimobil.org:7899/a-azarkan1/Kompas711/11778
+#EXTINF:-1,KrK  BEIN SPORT 1HD tvg-name="KırıK ANDROID Bein SPOR 1 KRK 7 TR" "group-title="KırıK ANDROID SPOR"
+http://digimobil.org:7899/a-azarkan1/Kompas711/26476
+#EXTINF:-1,KrK  Bein sports 1 HD (Backup) tvg-name="KırıK ANDROID Bein SPOR 1 KRK 8 TR" "group-title="KırıK ANDROID SPOR"
+http://digimobil.org:7899/a-azarkan1/Kompas711/19304
+#EXTINF:-1,KrK  beIN SPORTS 1 HD tvg-name="KırıK ANDROID Bein SPOR 1 KRK 9 TR" "group-title="KırıK ANDROID SPOR"
+http://digimobil.org:7899/a-azarkan1/Kompas711/16160
+#EXTINF:-1,TR-SP:BeIN Sports-1-digiplay tvg-name="KırıK ANDROID Bein SPOR 1 KRK 10 TR" "group-title="KırıK ANDROID SPOR"
+http://mahs.work:80/Bashar277n/Bs4354AltB/30632
+#EXTINF:-1,TR-SP:BEIN SPORT 1 H265 4K tvg-name="KırıK ANDROID Bein SPOR 1 KRK 11 TR" "group-title="KırıK ANDROID SPOR"
+http://mahs.work:80/Bashar277n/Bs4354AltB/30625
+#EXTINF:-1,TR-SP:BEIN SPORT 1 HD (TTNET ONLY) tvg-name="KırıK ANDROID Bein SPOR 1 KRK 12 TR" "group-title="KırıK ANDROID SPOR"
+http://mahs.work:80/Bashar277n/Bs4354AltB/30636
+#EXTINF:-1,TR-SP:BEIN SPORT 1 SD (TTNET ONLY) tvg-name="KırıK ANDROID Bein SPOR 1 KRK 13 TR" "group-title="KırıK ANDROID SPOR"
+http://mahs.work:80/Bashar277n/Bs4354AltB/30637
+#EXTINF:-1,TR-SP:BEIN SPORT 1 UHD (TTNET ONLY) tvg-name="KırıK ANDROID Bein SPOR 1 KRK 14 TR" "group-title="KırıK ANDROID SPOR"
+http://mahs.work:80/Bashar277n/Bs4354AltB/30638
+#EXTINF:-1,TR-SP:Bein Sport 1 HD tvg-name="KırıK ANDROID Bein SPOR 1 KRK 15 TR" "group-title="KırıK ANDROID SPOR"
+http://mahs.work:80/Bashar277n/Bs4354AltB/30639
+#EXTINF:-1,TR-SP:BEIN SPORT 2 H265 4K tvg-name="KırıK ANDROID Bein SPOR 2 KRK 1 TR" "group-title="KırıK ANDROID SPOR"
+http://mahs.work:80/Bashar277n/Bs4354AltB/30626
+#EXTINF:-1,TR-SP:BEIN SPORT 1 VIP tvg-name="KırıK ANDROID Bein SPOR 2 KRK 2 TR" "group-title="KırıK ANDROID SPOR"
+http://mahs.work:80/Bashar277n/Bs4354AltB/30628
+#EXTINF:-1,TR-SP:BEIN SPORT 1 RADAR tvg-name="KırıK ANDROID Bein SPOR 2 KRK 3 TR" "group-title="KırıK ANDROID SPOR"
+https://x.birakmamseni.xyz/kaynakstreamradarco/24/strmrdr.m3u8 
+#EXTINF:-1,TR184:beIN Sports 2 HD tvg-name="KırıK ANDROID Bein SPOR 2 KRK 4 TR" "group-title="KırıK ANDROID SPOR"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/32885
+#EXTINF:-1,TR181:beIN Sports 2 FHD tvg-name="KırıK ANDROID Bein SPOR 2 KRK 5 TR" "group-title="KırıK ANDROID SPOR"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/32888
+#EXTINF:-1,TR-SP:Bein Sport 2 HD tvg-name="KırıK ANDROID Bein SPOR 2 KRK 6 TR" "group-title="KırıK ANDROID SPOR"
+http://mahs.work:80/Bashar277n/Bs4354AltB/30640
+#EXTINF:-1,TR-SP:BeIN Sports-2-digiplay tvg-name="KırıK ANDROID Bein SPOR 2 KRK 7 TR" "group-title="KırıK ANDROID SPOR"
+http://mahs.work:80/Bashar277n/Bs4354AltB/30633
+#EXTINF:-1,TR-SP:BEIN SPORT 2 VIP tvg-name="KırıK ANDROID Bein SPOR 2 KRK 8 TR" "group-title="KırıK ANDROID SPOR"
+http://mahs.work:80/Bashar277n/Bs4354AltB/30629
+#EXTINF:-1,KrK  BEIN SPORT 2 FHD tvg-name="KırıK ANDROID Bein SPOR 2 KRK 9 TR" "group-title="KırıK ANDROID SPOR"
+http://digimobil.org:7899/a-azarkan1/Kompas711/26474
+#EXTINF:-1,KrK  BEIN SPORT 2 HD tvg-name="KırıK ANDROID Bein SPOR 2 KRK 10 TR" "group-title="KırıK ANDROID SPOR"
+http://digimobil.org:7899/a-azarkan1/Kompas711/26469
+#EXTINF:-1,KrK  beIN SPORTS 2 HD tvg-name="KırıK ANDROID Bein SPOR 2 KRK 11 TR" "group-title="KırıK ANDROID SPOR"
+http://digimobil.org:7899/a-azarkan1/Kompas711/16159
+#EXTINF:-1,KrK  Bein sports 2 HD (Backup) tvg-name="KırıK ANDROID Bein SPOR 2 KRK 12 TR" "group-title="KırıK ANDROID SPOR"
+http://digimobil.org:7899/a-azarkan1/Kompas711/19303
+#EXTINF:-1,KrK  Bein sports 2 RADAR tvg-name="KırıK ANDROID Bein SPOR 2 KRK 13 TR" "group-title="KırıK ANDROID SPOR"
+https://x.birakmamseni.xyz/kaynakstreamradarco/25/strmrdr.m3u8 
+#EXTINF:-1,TR-SP:BEIN SPORT 3 H265 4K tvg-name="KırıK ANDROID Bein SPOR 2 KRK 14 TR" "group-title="KırıK ANDROID SPOR"
+http://mahs.work:80/Bashar277n/Bs4354AltB/30627
+#EXTINF:-1,TR053:Lig tv 3 tvg-name="KırıK ANDROID Bein SPOR 3 KRK 1 TR" "group-title="KırıK ANDROID SPOR"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/33016
+#EXTINF:-1,TR-SP:Bein Sport 3 HD tvg-name="KırıK ANDROID Bein SPOR 3 KRK 2 TR" "group-title="KırıK ANDROID SPOR"
+http://mahs.work:80/Bashar277n/Bs4354AltB/30641
+#EXTINF:-1,TR185:beIN Sports 3 HD tvg-name="KırıK ANDROID Bein SPOR 3 KRK 3 TR" "group-title="KırıK ANDROID SPOR"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/32884
+#EXTINF:-1,TR165:beIN 3 FHD tvg-name="KırıK ANDROID Bein SPOR 3 KRK 4 TR" "group-title="KırıK ANDROID SPOR"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/32904
+#EXTINF:-1,TR185:beIN Sports 3 HD tvg-name="KırıK ANDROID Bein SPOR 3 KRK 5 TR" "group-title="KırıK ANDROID SPOR"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/32884
+#EXTINF:-1,TR-SP:BeIN Sports-3-digiplay tvg-name="KırıK ANDROID Bein SPOR 3 KRK 6 TR" "group-title="KırıK ANDROID SPOR"
+http://mahs.work:80/Bashar277n/Bs4354AltB/30634
+#EXTINF:-1,TR-SP:BEIN SPORT 3 VIP tvg-name="KırıK ANDROID Bein SPOR 3 KRK 7 TR" "group-title="KırıK ANDROID SPOR"
+http://mahs.work:80/Bashar277n/Bs4354AltB/30630
+#EXTINF:-1,KrK  BEIN SPORT 3 FHD tvg-name="KırıK ANDROID Bein SPOR 3 KRK 8 TR" "group-title="KırıK ANDROID SPOR"
+http://digimobil.org:7899/a-azarkan1/Kompas711/26473
+#EXTINF:-1,KrK  BEIN SPORT 3 HD tvg-name="KırıK ANDROID Bein SPOR 3 KRK 9 TR" "group-title="KırıK ANDROID SPOR"
+http://digimobil.org:7899/a-azarkan1/Kompas711/26468
+#EXTINF:-1,KrK  BEIN SPORT 3 RADAR tvg-name="KırıK ANDROID Bein SPOR 3 KRK 10 TR" "group-title="KırıK ANDROID SPOR"
+https://x.birakmamseni.xyz/kaynakstreamradarco/26/strmrdr.m3u8 
+#EXTINF:-1,TR-SP:BEIN SPORT 4 VIP tvg-name="KırıK ANDROID Bein SPOR 4 KRK 1 TR" "group-title="KırıK ANDROID SPOR"
+http://mahs.work:80/Bashar277n/Bs4354AltB/30631
+#EXTINF:-1,TR-SP:BeIN Sports-4-digiplay tvg-name="KırıK ANDROID Bein SPOR 4 KRK 2 TR" "group-title="KırıK ANDROID SPOR"
+http://mahs.work:80/Bashar277n/Bs4354AltB/30635
+#EXTINF:-1,TR-SP:BEIN SPORT 4 HD tvg-name="KırıK ANDROID Bein SPOR 4 KRK 3 TR" "group-title="KırıK ANDROID SPOR"
+http://mahs.work:80/Bashar277n/Bs4354AltB/30642
+#EXTINF:-1,TR-SP:BEIN SPORT 4 tvg-name="KırıK ANDROID Bein SPOR 4 KRK 4 TR" "group-title="KırıK ANDROID SPOR"
+http://mahs.work:80/Bashar277n/Bs4354AltB/30643
+#EXTINF:-1,TR186:beIN Sports 4 HD tvg-name="KırıK ANDROID Bein SPOR 4 KRK 5 TR" "group-title="KırıK ANDROID SPOR"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/32883
+#EXTINF:-1,TR370:LIG TV 4 tvg-name="KırıK ANDROID Bein SPOR 4 KRK 5 TR" "group-title="KırıK ANDROID SPOR"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/32699
+#EXTINF:-1,TR182:beIN Sports 4 FHD tvg-name="KırıK ANDROID Bein SPOR 4 KRK 6 TR" "group-title="KırıK ANDROID SPOR"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/32887
+#EXTINF:-1,TR191:beIN Sports IZ 1 HD tvg-name="KırıK ANDROID Bein SPOR İZ KRK 1 TR" "group-title="KırıK ANDROID SPOR"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/32878
+#EXTINF:-1,TR188:beIN Sports Max 1 FHD tvg-name="KırıK ANDROID Bein MAX 1 KRK 1 TR" "group-title="KırıK ANDROID SPOR"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/32881
+#EXTINF:-1,TR189:beIN Sports Max 2 FHD tvg-name="KırıK ANDROID Bein MAX 2 KRK 1 TR" "group-title="KırıK ANDROID SPOR"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/32880
+#EXTINF:-1,TR008:TRT SPOR FHD tvg-name="KırıK ANDROID TRT SPOR KRK 1 TR" "group-title="KırıK ANDROID SPOR"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/33061
+#EXTINF:-1,TR113:TRT SPOR HD ( 1080P ) tvg-name="KırıK ANDROID TRT SPOR KRK 2 TR" "group-title="KırıK ANDROID SPOR"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/32956
+#EXTINF:-1,TR011:TIVIBUSPOR 1 HD tvg-name="KırıK ANDROID TiviBu SPOR KRK 1 TR" "group-title="KırıK ANDROID SPOR"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/33058
+#EXTINF:-1,TR389:tivibu spor 1 FHD tvg-name="KırıK ANDROID TiviBu SPOR KRK 2 TR" "group-title="KırıK ANDROID SPOR"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/32680
+#EXTINF:-1,TR012:TIVIBU SPOR 2 HD tvg-name="KırıK ANDROID TiviBu SPOR 2 KRK 1 TR" "group-title="KırıK ANDROID SPOR"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/33057
+#EXTINF:-1,TR390:tivibu spor 2 FHD tvg-name="KırıK ANDROID TiviBu SPOR 2 KRK 2 TR" "group-title="KırıK ANDROID SPOR"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/32679
+#EXTINF:-1,TR010:TIVIBU SPOR 3 HD tvg-name="KırıK ANDROID TiviBu SPOR 3 KRK 1 TR" "group-title="KırıK ANDROID SPOR"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/33059
+#EXTINF:-1,TR380:TIVIBU SPOR 3 HD tvg-name="KırıK ANDROID TiviBu SPOR 3 KRK 2 TR" "group-title="KırıK ANDROID SPOR"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/32689
+#EXTINF:-1,TR388:TIVIBUSPOR 4 HD tvg-name="KırıK ANDROID TiviBu SPOR 4 KRK 1 TR" "group-title="KırıK ANDROID SPOR"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/32681
+#EXTINF:-1,TR015:SPORTS TV  HD tvg-name="KırıK ANDROID SSPORT KRK 1 TR" "group-title="KırıK ANDROID SPOR"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/33054
+#EXTINF:-1,TR016:SPOR SMART tvg-name="KırıK ANDROID SPOR SMART KRK 1 TR" "group-title="KırıK ANDROID SPOR"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/33053
+#EXTINF:-1,TR017:S SPORT HD(1) tvg-name="KırıK ANDROID S SPORT KRK 1 TR" "group-title="KırıK ANDROID SPOR"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/33052
+#EXTINF:-1,TR342:S SPORT FHD tvg-name="KırıK ANDROID S SPORT KRK 2 TR" "group-title="KırıK ANDROID SPOR"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/32727
+#EXTINF:-1,TR-SP:SSPORT HD tvg-name="KırıK ANDROID S SPORT KRK 3 TR" "group-title="KırıK ANDROID SPOR"
+http://mahs.work:80/Bashar277n/Bs4354AltB/30654
+#EXTINF:-1,KrK  S SPORT HD tvg-name="KırıK ANDROID S SPORT KRK 4 TR" "group-title="KırıK ANDROID SPOR"
+http://digimobil.org:7899/a-azarkan1/Kompas711/4251
+#EXTINF:-1,KrK  SPORTS TV  HD tvg-name="KırıK ANDROID S SPORT 1 KRK 5 TR" "group-title="KırıK ANDROID SPOR"
+http://digimobil.org:7899/a-azarkan1/Kompas711/4258
+#EXTINF:-1,TR341:S SPORT 2 FHD tvg-name="KırıK ANDROID S SPORT 2 KRK 1 TR" "group-title="KırıK ANDROID SPOR"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/32728
+#EXTINF:-1,TR-SP:S Spor 2 HD tvg-name="KırıK ANDROID S SPORT 2 KRK 2 TR" "group-title="KırıK ANDROID SPOR"
+http://mahs.work:80/Bashar277n/Bs4354AltB/30656
+#EXTINF:-1,KrK  S SPORT HD tvg-name="KırıK ANDROID S  SPORT KRK 1 TR" "group-title="KırıK ANDROID SPOR"
+http://digimobil.org:7899/a-azarkan1/Kompas711/11793
+#EXTINF:-1,TR346:SARAN SPORT HD tvg-name="KırıK ANDROID SARAN SPORT KRK 1 TR" "group-title="KırıK ANDROID SPOR"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/32723
+#EXTINF:-1,TR369:SMART SPOR 1 HD tvg-name="KırıK ANDROID SMARTSPOR 1 KRK 1 TR" "group-title="KırıK ANDROID SPOR"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/32700
+#EXTINF:-1,TR-SP:SPOR SMART HD tvg-name="KırıK ANDROID SPOR SMART KRK 1 TR" "group-title="KırıK ANDROID SPOR"
+http://mahs.work:80/Bashar277n/Bs4354AltB/30653
+#EXTINF:-1,TR068:EUROSPORT HD tvg-name="KırıK ANDROID EUROSPORT KRK 1 TR" "group-title="KırıK ANDROID SPOR"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/33001
+#EXTINF:-1,TR236:EUROSPORT 1 HD tvg-name="KırıK ANDROID EUROSPORT KRK 2 TR" "group-title="KırıK ANDROID SPOR"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/32833
+#EXTINF:-1,TR237:EUROSPORT 2 HDtvg-name="KırıK ANDROID EUROSPORT 2 KRK 1 TR" "group-title="KırıK ANDROID SPOR"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/32832
+#EXTINF:-1,TR067:EURO SPORT2 HD tvg-name="KırıK ANDROID EUROSPORT 2 KRK 2 TR" "group-title="KırıK ANDROID SPOR"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/33002
+#EXTINF:-1,TR326:NBA TV FHD tvg-name="KırıK ANDROID NBA KRK 1 TR" "group-title="KırıK ANDROID SPOR"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/32743
+#EXTINF:-1,TR:CBC SPORT tvg-name="KırıK ANDROIDAZ CBC SPORT UHD TR" "group-title="KırıK ANDROID SPOR"
+https://streams.livetv.az/azerbaijan/cbc_sport_hd/chunks.m3u8
 
+
+
+
+
+FRANSA SPOR KANALLAR
+#EXTINF:-1,FR009:Bein Sport 4 Max                         "group-title="KırıK ANDROID SPOR FRANSA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/2857
+#EXTINF:-1,FR010:Bein Sport 10 Max                           "group-title="KırıK ANDROID SPOR FRANSA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/2856
+#EXTINF:-1,FR011:Bein Sport 5 Max                            "group-title="KırıK ANDROID SPOR FRANSA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/2855
+#EXTINF:-1,FR012:Bein Sport 6 Max                            "group-title="KırıK ANDROID SPOR FRANSA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/2854
+#EXTINF:-1,FR013:Bein Sport 7 Max                            "group-title="KırıK ANDROID SPOR FRANSA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/2853
+#EXTINF:-1,FR014:Bein Sport 8 Max                            "group-title="KırıK ANDROID SPOR FRANSA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/2852
+#EXTINF:-1,FR015:Bein Sport 9 Max                            "group-title="KırıK ANDROID SPOR FRANSA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/2851
+#EXTINF:-1,FR016:Bein Sport 3                                "group-title="KırıK ANDROID SPOR FRANSA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/2850
+#EXTINF:-1,FR017:Bein Sport 1                                "group-title="KırıK ANDROID SPOR FRANSA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/2849
+#EXTINF:-1,FR018:Bein Sport  2                               "group-title="KırıK ANDROID SPOR FRANSA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/2848
+#EXTINF:-1,FR027:Canal  Sport                                "group-title="KırıK ANDROID SPOR FRANSA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/2839
+#EXTINF:-1,FR050:Euro Sport 1 FR                             "group-title="KırıK ANDROID SPOR FRANSA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/2816
+#EXTINF:-1,FR051:Euro Sport 2 FR                             "group-title="KırıK ANDROID SPOR FRANSA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/2815
+#EXTINF:-1,FR062:Info Sport                                  "group-title="KırıK ANDROID SPOR FRANSA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/2804
+#EXTINF:-1,FR080:SFR Sport 4                                 "group-title="KırıK ANDROID SPOR FRANSA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/2786
+#EXTINF:-1,FR081:SFR Sport 1                                 "group-title="KırıK ANDROID SPOR FRANSA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/2785
+#EXTINF:-1,FR082:SFR Sport 2                                 "group-title="KırıK ANDROID SPOR FRANSA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/2784
+#EXTINF:-1,FR083:SFR Sport 3                                 "group-title="KırıK ANDROID SPOR FRANSA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/2783
+#EXTINF:-1,FR111:Eurosport 2                                 "group-title="KırıK ANDROID SPOR FRANSA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/28198
+#EXTINF:-1,FR112:Eurosport 1                                 "group-title="KırıK ANDROID SPOR FRANSA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/28197
+#EXTINF:-1,FR113:INFOSPORT                                   "group-title="KırıK ANDROID SPOR FRANSA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/28196
+#EXTINF:-1,FR176:Golf Channel France                         "group-title="KırıK ANDROID SPOR FRANSA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/28133
+#EXTINF:-1,FR177:BFM SPORT                                   "group-title="KırıK ANDROID SPOR FRANSA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/28132
+#EXTINF:-1,FR250:CANAL  SPORT FHD                            "group-title="KırıK ANDROID SPOR FRANSA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/28059
+#EXTINF:-1,FR329:Foot +                                      "group-title="KırıK ANDROID SPOR FRANSA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/27980
+#EXTINF:-1,FR337:RMC ACCESS 1                                "group-title="KırıK ANDROID SPOR FRANSA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/27972
+#EXTINF:-1,FR338:RMC ACCESS  2                               "group-title="KırıK ANDROID SPOR FRANSA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/27971
+#EXTINF:-1,FR349:RMC SPORT 1 HD                              "group-title="KırıK ANDROID SPOR FRANSA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/27960
+#EXTINF:-1,FR350:RMC SPORT 2 HD                              "group-title="KırıK ANDROID SPOR FRANSA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/27959
+#EXTINF:-1,FR351:RMC SPORT 3 HD                              "group-title="KırıK ANDROID SPOR FRANSA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/27958
+#EXTINF:-1,FR352:RMC SPORT 4 HD                              "group-title="KırıK ANDROID SPOR FRANSA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/27957
+#EXTINF:-1,FR121:RMC Sport 5                                 "group-title="KırıK ANDROID SPOR FRANSA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/28188
+#EXTINF:-1,FR348:RMC Sport 6                                 "group-title="KırıK ANDROID SPOR FRANSA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/27961
+#EXTINF:-1,FR129:RMC Sport 7                                 "group-title="KırıK ANDROID SPOR FRANSA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/28180
+#EXTINF:-1,FR130:RMC Sport 8                                 "group-title="KırıK ANDROID SPOR FRANSA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/28179
+#EXTINF:-1,FR254:RMC Sport 9                                 "group-title="KırıK ANDROID SPOR FRANSA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/28055
+#EXTINF:-1,FR256:RMC Sport 10                                "group-title="KırıK ANDROID SPOR FRANSA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/28053
+#EXTINF:-1,FR257:RMC Sport 11                                "group-title="KırıK ANDROID SPOR FRANSA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/28052
+#EXTINF:-1,FR266:RMC Sport 12                                "group-title="KırıK ANDROID SPOR FRANSA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/28043
+#EXTINF:-1,FR267:RMC Sport 13                                "group-title="KırıK ANDROID SPOR FRANSA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/28042
+#EXTINF:-1,FR268:RMC Sport 14                                "group-title="KırıK ANDROID SPOR FRANSA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/28041
+#EXTINF:-1,FR280:RMC SPORT 15                                "group-title="KırıK ANDROID SPOR FRANSA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/28029
+#EXTINF:-1,FR296:RMC SPORT 16                                "group-title="KırıK ANDROID SPOR FRANSA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/28013
+#EXTINF:-1,FR346:TELEFOOT                                    "group-title="KırıK ANDROID SPOR FRANSA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/27963
+#EXTINF:-1,FR355:RMC STORY HD                                "group-title="KırıK ANDROID SPOR FRANSA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/27954
+
+
+
+İTALYAN SPOR KANALLARI
+#EXTINF:-1,IT015:Euro Sport 1 IT                              "group-title="KırıK ANDROID SPOR İTALYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/2757
+#EXTINF:-1,IT016:Euro Sport 2 IT                              "group-title="KırıK ANDROID SPOR İTALYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/2756
+#EXTINF:-1,IT029:Dazn1 Sat                                    "group-title="KırıK ANDROID SPOR İTALYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/2743
+#EXTINF:-1,IT074:Sky Moto GP                                  "group-title="KırıK ANDROID SPOR İTALYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/2698
+#EXTINF:-1,IT076:Sky Sport 24                                 "group-title="KırıK ANDROID SPOR İTALYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/2696
+#EXTINF:-1,IT077:Sky Sport F1                                 "group-title="KırıK ANDROID SPOR İTALYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/2695
+#EXTINF:-1,IT078:Sky Sport 1                                  "group-title="KırıK ANDROID SPOR İTALYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/2694
+#EXTINF:-1,IT079:Sky Sport 2                                  "group-title="KırıK ANDROID SPOR İTALYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/2693
+#EXTINF:-1,IT080:Sky Sport 3                                  "group-title="KırıK ANDROID SPOR İTALYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/2692
+#EXTINF:-1,IT083:Sport Italia                                 "group-title="KırıK ANDROID SPOR İTALYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/2689
+#EXTINF:-1,IT084:Super Tennis                                 "group-title="KırıK ANDROID SPOR İTALYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/2688
+#EXTINF:-1,IT089:Dazn1 Sat | UHD                              "group-title="KırıK ANDROID SPOR İTALYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/28473
+#EXTINF:-1,IT090:Dazn1 Sat | HD                               "group-title="KırıK ANDROID SPOR İTALYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/28472
+#EXTINF:-1,IT091:Dazn1 Sat | SD                               "group-title="KırıK ANDROID SPOR İTALYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/28471
+#EXTINF:-1,IT092:Sky Sport Serie A | UHD                      "group-title="KırıK ANDROID SPOR İTALYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/28470
+#EXTINF:-1,IT093:Sky Sport Serie A | HD                       "group-title="KırıK ANDROID SPOR İTALYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/28469
+#EXTINF:-1,IT094:Sky Sport Serie A | SD                       "group-title="KırıK ANDROID SPOR İTALYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/28468
+#EXTINF:-1,IT095:Sky Sport MotoGP | UHD                       "group-title="KırıK ANDROID SPOR İTALYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/28467
+#EXTINF:-1,IT096:Sky Sport MotoGP | HD                        "group-title="KırıK ANDROID SPOR İTALYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/28466
+#EXTINF:-1,IT097:Sky Sport MotoGP | SD                        "group-title="KırıK ANDROID SPOR İTALYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/28465
+#EXTINF:-1,IT105:FOX Sport HD                                 "group-title="KırıK ANDROID SPOR İTALYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/28457
+#EXTINF:-1,IT106:SKY SPORT MOTO GP                            "group-title="KırıK ANDROID SPOR İTALYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/28456
+#EXTINF:-1,IT107:SKY F1 HD                                    "group-title="KırıK ANDROID SPOR İTALYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/28455
+#EXTINF:-1,IT110:SKY SPORT COLLECTION                         "group-title="KırıK ANDROID SPOR İTALYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/28452
+#EXTINF:-1,IT114:SUPERTENNIS                                 "group-title="KırıK ANDROID SPOR İTALYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/28448
+#EXTINF:-1,IT115:Sky Sport 251                               "group-title="KırıK ANDROID SPOR İTALYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/28447
+#EXTINF:-1,IT116:Sky Sport 252                               "group-title="KırıK ANDROID SPOR İTALYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/28446
+#EXTINF:-1,IT117:Sky Sport 253                               "group-title="KırıK ANDROID SPOR İTALYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/28445
+#EXTINF:-1,IT118:Sky Sport 254                               "group-title="KırıK ANDROID SPOR İTALYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/28444
+#EXTINF:-1,IT119:Sky Sport 255                               "group-title="KırıK ANDROID SPOR İTALYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/28443
+#EXTINF:-1,IT230:Sky Sport Uno FHD                           "group-title="KırıK ANDROID SPOR İTALYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/28332
+#EXTINF:-1,IT253:Sky Sport NBA FHD                           "group-title="KırıK ANDROID SPOR İTALYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/28309
+#EXTINF:-1,IT255:Sky Sport Football HD                       "group-title="KırıK ANDROID SPOR İTALYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/28307
+#EXTINF:-1,IT256:SKY SPORT ARENA FHD                         "group-title="KırıK ANDROID SPOR İTALYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/28306
+#EXTINF:-1,IT265:Rai Sport + FHD                             "group-title="KırıK ANDROID SPOR İTALYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/28297
+#EXTINF:-1,IT269:ROMA CHANNEL HD                             "group-title="KırıK ANDROID SPOR İTALYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/28293
+#EXTINF:-1,IT277:Solo Calcio                                 "group-title="KırıK ANDROID SPOR İTALYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/28285
+#EXTINF:-1,IT278:Sky Calcio 6 HD                             "group-title="KırıK ANDROID SPOR İTALYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/28284
+#EXTINF:-1,IT280:Sky Calcio 1 HD                             "group-title="KırıK ANDROID SPOR İTALYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/28282
+#EXTINF:-1,IT281:Sky Calcio 2 HD                             "group-title="KırıK ANDROID SPOR İTALYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/28281
+#EXTINF:-1,IT282:Sky Calcio 3 HD                             "group-title="KırıK ANDROID SPOR İTALYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/28280
+#EXTINF:-1,IT283:Sky Calcio 4 HD                             "group-title="KırıK ANDROID SPOR İTALYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/28279
+#EXTINF:-1,IT284:Sky Calcio 5 HD                             "group-title="KırıK ANDROID SPOR İTALYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/28278
+#EXTINF:-1,IT290:Milan Channel                               "group-title="KırıK ANDROID SPOR İTALYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/28272
+#EXTINF:-1,IT298:Sky F1 FHD                                 "group-title="KırıK ANDROID SPOR İTALYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/28264
+
+
+İSPANYA SPOR KANALLARI
+#EXTINF:-1,ES009:Barca TV                                   "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/2595
+#EXTINF:-1,ES153:BARCA TV                                   "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/29239
+#EXTINF:-1,ES182:Movistar Liga de Campeones 1               "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/52425
+#EXTINF:-1,ES131:M. Laliga 8                                "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/29261
+#EXTINF:-1,ES151:Real Madrid TV                             "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/29241
+#EXTINF:-1,ES243:RealMadrid TV                              "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/52364
+#EXTINF:-1,ES189:Movistar Liga de Campeones 8               "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/52418
+#EXTINF:-1,ES190:M GOLF HD                                  "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/52417
+#EXTINF:-1,ES017:M.Deportes                                 "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/2587
+#EXTINF:-1,ES045:GOL TV                                     "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/2559
+#EXTINF:-1,ES183:Movistar Liga de Campeones 2               "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/52424
+#EXTINF:-1,ES274:EUROSPORT 1                                "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/52333
+#EXTINF:-1,ES275:EUROSPORT 2                                "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/52332
+#EXTINF:-1,ES089:La Liga BAR HD                             "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/29303
+#EXTINF:-1,ES133:M. DEPORTES 1                              "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/29259
+#EXTINF:-1,ES134:#VolverEsGanar                             "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/29258
+#EXTINF:-1,ES135:M. DEPORTES 3                              "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/29257
+#EXTINF:-1,ES173:Movistar Liga de Campeones                 "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/29219
+#EXTINF:-1,ES188:Movistar Liga de Campeones 7               "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/52419
+#EXTINF:-1,ES187:Movistar Liga de Campeones 6               "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/52420
+#EXTINF:-1,ES172:Dazn ES ( Match time only)                 "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/29220
+#EXTINF:-1,ES174:M. LIGA DE CAMPEONES 6                     "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/29218
+#EXTINF:-1,ES051:LaLiga TV Bar                              "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/2553
+#EXTINF:-1,ES014:M Deportes 2                               "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/2590
+#EXTINF:-1,ES015:M Deportes 1                               "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/2589
+#EXTINF:-1,ES010:M Liga de Campeones                        "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/2594
+#EXTINF:-1,ES018:M Golf                                     "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/2586
+#EXTINF:-1,ES020:Toros                                      "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/2584
+#EXTINF:-1,ES026:M Formula 1                                "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/2578
+#EXTINF:-1,ES027:M MotoGP                                   "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/2577
+#EXTINF:-1,ES040:Euro Sport 1                               "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/2564
+#EXTINF:-1,ES041:Euro Sport 2                               "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/2563
+#EXTINF:-1,ES069:Teledeport                                 "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/2535
+#EXTINF:-1,ES079:Vamos                                     "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/29313
+#EXTINF:-1,ES084:M.LaLIGA                                  "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/29308
+#EXTINF:-1,ES085:M.Liga de Campeones                       "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/29307
+#EXTINF:-1,ES086:Canal  DEPORTES HD                        "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/29306
+#EXTINF:-1,ES087:Canal  DEPORTES 2 HD                      "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/29305
+#EXTINF:-1,ES088:Canal DCINE HD                            "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/29304
+#EXTINF:-1,ES092:M. LaLiga HD                              "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/29300
+#EXTINF:-1,ES095:M. LaLiga 4                               "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/29297
+#EXTINF:-1,ES096:M. LaLiga 5                               "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/29296
+#EXTINF:-1,ES121:MOVISTAR LaLiga HD                        "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/29271
+#EXTINF:-1,ES122:MOVISTAR LaLiga FHD                       "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/29270
+#EXTINF:-1,ES123:M. Laliga 6                               "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/29269
+#EXTINF:-1,ES125:M. Laliga 7                               "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/29267
+#EXTINF:-1,ES132:Vamos FHD                                 "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/29260
+#EXTINF:-1,ES136:M. LaLiga 1                                "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/29256
+#EXTINF:-1,ES137:M. LaLiga 2                               "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/29255
+#EXTINF:-1,ES138:M. LaLiga 3                              "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/29254
+#EXTINF:-1,ES144:Willow Cricket                           "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/29248
+#EXTINF:-1,ES156:LaLiga 123 HD                            "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/29236
+#EXTINF:-1,ES164:SKY NET SPORTS 2                         "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/29228
+#EXTINF:-1,ES165:SKYNET SPORTS 1                          "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/29227
+#EXTINF:-1,ES184:Movistar Liga de Campeones 3              "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/52423
+#EXTINF:-1,ES185:Movistar Liga de Campeones 4              "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/52422
+#EXTINF:-1,ES166:DAZN MOTO GP                              "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/29226
+#EXTINF:-1,ES186:Movistar Liga de Campeones 5              "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/52421
+#EXTINF:-1,ES191:M FORMULA 1 HD                            "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/52416
+#EXTINF:-1,ES193:M FUTBOL HD                              "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/52414
+#EXTINF:-1,ES231:Toros Tv                                 "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/52376
+#EXTINF:-1,ES239:Movistar MotoGP                         "group-title="KırıK ANDROID SPOR İSPANYA"
+http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/52368
 
 
 
