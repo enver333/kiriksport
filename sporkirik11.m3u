@@ -11,7 +11,7 @@ http://51.210.113.205:8080/hlsr/GRBYA0VdQV9HAloCBAFTAFMGUFwAXFYLAwJfAFNRBlsGBAZa
 #EXTINF:-1,KrK  Turkish Bein Sports 1 tvg-name="KırıK ANDROID Bein SPOR 1 KRK 4 TR" "group-title="KırıK ANDROID SPOR"
 http://f.ok2.se:8000/brian2019/2019brian/27119
 #EXTINF:-1,KrK  BEIN SPORT 1 FHD tvg-name="KırıK ANDROID Bein SPOR 1 KRK 5 TR" "group-title="KırıK ANDROID SPOR"
-http://f.ok2.se:8000/martin1/martin123/27119
+http://cms.tivigo.us:80/ersinn/010203tivigo/1662
 #EXTINF:-1,KrK  beIN Sport 1 HD tvg-name="KırıK ANDROID Bein SPOR 1 KRK 6 TR" "group-title="KırıK ANDROID SPOR"
 https://cache5-ams1.steamcontent.com/broadcast/76561199082959917/805497929087641523/hls_manifest/0/cache5-ams1.steamcontent.com/2200000/video.m3u8?broadcast_origin=repo-03-fra1.broadcast.steamcontent.com:80
 #EXTINF:-1,KrK  BEIN SPORT 1HD tvg-name="KırıK ANDROID Bein SPOR 1 KRK 7 TR" "group-title="KırıK ANDROID SPOR"
@@ -19,17 +19,17 @@ http://f.ok2.se:8000/brian2019/2019brian/27119
 #EXTINF:-1,KrK  Bein sports 1 HD (Backup) tvg-name="KırıK ANDROID Bein SPOR 1 KRK 8 TR" "group-title="KırıK ANDROID SPOR"
 http://ok2.se:8000/superman/12345/27119
 #EXTINF:-1,KrK  beIN SPORTS 1 HD tvg-name="KırıK ANDROID Bein SPOR 1 KRK 9 TR" "group-title="KırıK ANDROID SPOR"
-http://pluskor.com:8080/10072020/10072020/66217
+http://cms.tivigo.us:80/ersinn/010203tivigo/1661
 #EXTINF:-1,TR-SP:BeIN Sports-1-digiplay tvg-name="KırıK ANDROID Bein SPOR 1 KRK 10 TR" "group-title="KırıK ANDROID SPOR"
 http://mahs.work:80/Bashar277n/Bs4354AltB/30632
 #EXTINF:-1,TR-SP:BEIN SPORT 1 H265 4K tvg-name="KırıK ANDROID Bein SPOR 1 KRK 11 TR" "group-title="KırıK ANDROID SPOR"
 http://mahs.work:80/Bashar277n/Bs4354AltB/30625
 #EXTINF:-1,TR-SP:BEIN SPORT 1 HD (TTNET ONLY) tvg-name="KırıK ANDROID Bein SPOR 1 KRK 12 TR" "group-title="KırıK ANDROID SPOR"
-http://pluskor.com:8080/10072020/10072020/4521
+https://hlsplay.nscdnetwork.com/hlslive/500.m3u8
 #EXTINF:-1,TR-SP:BEIN SPORT 1 SD (TTNET ONLY) tvg-name="KırıK ANDROID Bein SPOR 1 KRK 13 TR" "group-title="KırıK ANDROID SPOR"
 http://mahs.work:80/Bashar277n/Bs4354AltB/30637
 #EXTINF:-1,TR-SP:BEIN SPORT 1 UHD (TTNET ONLY) tvg-name="KırıK ANDROID Bein SPOR 1 KRK 14 TR" "group-title="KırıK ANDROID SPOR"
-http://iptv.darktv.nl:25461/Necmi/Necmi/35701
+https://x.birakmamseni.xyz/kaynakstreamradarco/24/strmrdr.m3u8 
 #EXTINF:-1,TR-SP:Bein Sport 1 HD tvg-name="KırıK ANDROID Bein SPOR 1 KRK 15 TR" "group-title="KırıK ANDROID SPOR"
 http://mahs.work:80/Bashar277n/Bs4354AltB/30639
 #EXTINF:-1,TR-SP:BEIN SPORT 1 VIP tvg-name="KırıK ANDROID Bein SPOR 2 KRK 2 TR" "group-title="KırıK ANDROID SPOR"
@@ -154,7 +154,7 @@ http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/32833
 http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/32832
 #EXTINF:-1,TR067:EURO SPORT2 HD tvg-name="KırıK ANDROID EUROSPORT 2 KRK 2 TR" "group-title="KırıK ANDROID SPOR"
 http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/33002
-#EXTINF:-1,TR326:NBA TV FHD tvg-name="KırıK ANDROID NBA KRK 1 TR" "group-title="KırıK ANDROID SPOR"
-http://c2.dcba.club:8880/kg14m3n0532/3678sdcs/32743
+#EXTINF:-1,TR:CBC SPORT tvg-name="KırıK ANDROIDAZ CBC SPORT UHD TR" "group-title="KırıK ANDROID SPOR"
+https://streams.livetv.az/azerbaijan/cbc_sport_hd/playlist.m3u8
 #EXTINF:-1,TR:CBC SPORT tvg-name="KırıK ANDROIDAZ CBC SPORT UHD TR" "group-title="KırıK ANDROID SPOR"
 https://streams.livetv.az/azerbaijan/cbc_sport_hd/chunks.m3u8
